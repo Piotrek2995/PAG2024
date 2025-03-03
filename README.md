@@ -1,3 +1,3 @@
-# PAG2024
+# PAG2025
 
 Repozytorium posłuży do nauki Javy
